@@ -1,0 +1,99 @@
+body {
+ 	background: black;
+   
+}
+.logo {
+	margin-left: 23%;
+	margin-top: 5%;
+	}
+	.photo {
+		margin-left:55%;
+		margin-top:13%;
+	}
+.zagolovok {
+	color: white;
+	font-size: 25px;
+	font-family:georgia;
+	
+}
+p {
+	color: white;
+}
+.z {
+	color: white;
+	font-size: 15px;
+	font-family: arial;
+}
+.kolonka1 {
+	margin-top: -20%;
+	margin-left: 18%;
+}
+
+ .vizitka {
+  	margin-top:15%;
+  	margin-left:10%;
+  }
+.kolonka2 {
+	margin-left: 60%;
+	margin-top:-19%;
+}
+.poligrafia {
+	margin-top:20%;
+	margin-left: 55%;
+}
+.kolonka3 {
+	margin-top:-19%;
+	margin-left:18%;
+}
+.magnitik {
+	margin-left:10%;
+	margin-top:15%;
+}
+.kolonka4 {
+	margin-top:-25%;
+	margin-left:55%;
+}
+.pechat {
+	margin-top:20%;
+	margin-left:55%;
+}
+.kolonka5 {
+ 	margin-top:-18%;
+	margin-left:15%;
+}
+.kontakt {
+	text-align: center;
+	margin-top:17%;
+	font-size: 50px;
+	font-family: Georgia;
+}
+#kontakt-kolonka {
+	margin-left:18%;
+	margin-top:8%;
+	font-size:15px;
+	font-family:arial;
+}
+.telephon {
+	font-size:23px;
+	font-family:Nord sans-serif;
+}
+.karta {
+	margin-top:-25%;
+	margin-left:50%;
+}
+.trubka {
+	margin-top:-10.5%;
+	margin-left:-5%;
+}
+.pochta {
+	margin-top:1%;
+	margin-left:-5%;
+}
+.VK {
+	margin-top:5%;
+	margin-left:10%;
+}
+.Instagram {
+	margin-top:-8.3%;
+	margin-left:0%;
+}
